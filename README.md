@@ -20,5 +20,5 @@ http://isia.ict.ac.cn/dataset/Yummly-66K.html
 
 ## The dataset can also be downloaded from the following links:
 Baidu Drive: https://pan.baidu.com/s/139yTIeWZRY-fe9Y6o4vljg \
-Google Drive:
+Google Drive: https://drive.google.com/open?id=1U5a-1R-b4Gl_La0rUAFWDgM8eIAF_pR3
 
