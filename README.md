@@ -5,6 +5,15 @@
 This dataset consists of 66,615 recipe items from Yummly, namely Yummly_66K. Each recipe item includes the recipe name, preprocessed ingredient line, recipe image, cuisine and course attribute information, and so on. There are totally 10 kinds of cuisines, 14 kinds of courses and 2,416 ingredients in our dataset.
 
 ## Data statistic
+| Cuisine       | #items        | Cuisine      | #items        | 
+| ------------- |:-------------:| -------------|:-------------:|
+| American      |   13,262      | Italian      |   9,401       |
+| Greek         |   4,998       | Japanese     |   4,804       |
+| Mexican       |   7,960       | Indian       |   5,470       |
+| Rrench        |   6,173       | Spanish      |   4,014       |
+| Thai          |   5,282       | Chinese      |   5,251       |
+
+
 
 ## The image dataset can be downloaded from the following link:
 http://isia.ict.ac.cn/dataset/Yummly-66K.html
@@ -13,15 +22,3 @@ http://isia.ict.ac.cn/dataset/Yummly-66K.html
 Baidu Drive: https://pan.baidu.com/s/139yTIeWZRY-fe9Y6o4vljg \
 Google Drive:
 
-## Citing
-Besides some related works from http://pulse.media.mit.edu/papers/, our recent work is also relevant to this dataset
-
-<pre><code>    @ARTICLE{Min-MTDRAL-TIP2020, 
-    author={W. {Min} and S. {Mei} and L. {Liu} and Y. {Wang} and S. {Jiang}}, 
-    journal={IEEE Transactions on Image Processing}, 
-    title={Multi-Task Deep Relative Attribute Learning for Visual Urban Perception}, 
-    year={2020}, 
-    volume={29}, 
-    number={1}, 
-    pages={657-669}, 
-    }
