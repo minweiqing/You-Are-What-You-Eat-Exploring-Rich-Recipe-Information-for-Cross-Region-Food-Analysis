@@ -2,14 +2,16 @@
 <div align=center><img width="1000" height="550" src="examples.png"/></div> 
 
 ## Data collection
-The original Place Pulse 2.0 dataset (http://pulse.media.mit.edu/data/) contains `111,390` image URLs and their `1,223,649` pairwise comparisons. When we download the images, some URLs are unavailable. We finally obtain `110,688` images and `1,208,808` pairwise comparisons, including `1,046,926` unequal ones and `161,882` equal ones.
+This dataset consists of 66,615 recipe items from Yummly, namely Yummly_66K. Each recipe item includes the recipe name, preprocessed ingredient line, recipe image, cuisine and course attribute information, and so on. There are totally 10 kinds of cuisines, 14 kinds of courses and 2,416 ingredients in our dataset.
+
+## Data statistic
 
 ## The image dataset can be downloaded from the following link:
-http://isia.ict.ac.cn/dataset/Place_Pulse_2_dataset.html 
+http://isia.ict.ac.cn/dataset/Yummly-66K.html
 
 ## The dataset can also be downloaded from the following links:
-Baidu Drive:https://pan.baidu.com/s/1fYoVE6YKcbDJiVqoxx5K9g \
-Google Drive:https://drive.google.com/open?id=1AhFu9GKDgTERgI7SED_hP801Kt7DwALc
+Baidu Drive: https://pan.baidu.com/s/139yTIeWZRY-fe9Y6o4vljg \
+Google Drive:
 
 ## Citing
 Besides some related works from http://pulse.media.mit.edu/papers/, our recent work is also relevant to this dataset
