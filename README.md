@@ -22,3 +22,17 @@ http://isia.ict.ac.cn/dataset/Yummly-66K.html
 Baidu Drive: https://pan.baidu.com/s/139yTIeWZRY-fe9Y6o4vljg \
 Google Drive: https://drive.google.com/open?id=1U5a-1R-b4Gl_La0rUAFWDgM8eIAF_pR3
 
+## Reference
+If you are interested in our work and want to cite it, please acknowledge the following paper:
+
+```
+@Article{Min-YAWYE-TMM2018,
+  author =  {W. Min and B. K. Bao and S. Mei and Y. Zhu and Y. Rui and S. Jiang},
+  title =   {You are what you eat: Exploring rich recipe information for cross-region food analysis},
+  journal = {IEEE Transactions on Multimedia},
+  year =    {2018},
+  volume =  {20},
+  number =  {4},
+  pages =   {950-964}
+}
+```
