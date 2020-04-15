@@ -2,7 +2,7 @@
 <div align=center><img width="1000" height="550" src="examples.png"/></div> 
 
 ## Data collection
-This dataset consists of 66,615 recipe items from Yummly, namely Yummly_66K. Each recipe item includes the recipe name, preprocessed ingredient line, recipe image, cuisine and course attribute information, and so on. There are totally 10 kinds of cuisines, 14 kinds of courses and 2,416 ingredients in our dataset.
+This dataset consists of 66,615 recipe items from Yummly, namely Yummly-66K. Each recipe item includes the recipe name, preprocessed ingredient line, recipe image, cuisine and course attribute information, and so on. There are totally 10 kinds of cuisines, 14 kinds of courses and 2,416 ingredients in our dataset.
 
 ## Data statistics
 | Cuisine       | #items        | Cuisine      | #items        | 
